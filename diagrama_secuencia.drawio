@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T22:22:56.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0w_xo6MZ68U2JmuIRYVW" version="22.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-13T22:23:11.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VslM2PYizOQ0K_Tv72nE" version="22.0.4" type="github" pages="12">
   <diagram name="login" id="mG-L4HED1XU0AZiBFtAG">
     <mxGraphModel dx="1313" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qrvkff-w_vfmBrDidt2X" name="crear_cuenta">
-    <mxGraphModel dx="1750" dy="2126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1773" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
         </mxCell>
         <mxCell id="H9PbeoFvsT3FLhTO0Lhz-2" value="[ else]" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" vertex="1" parent="0ydb4axTOyn2t5maYC30-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="252" y="422" as="offset" />
+            <mxPoint x="252" y="443" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ydb4axTOyn2t5maYC30-24" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#f2f2f2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ced4db;strokeWidth=0.8;lucidId=Yu5MydJHa4al;" parent="1" vertex="1">
