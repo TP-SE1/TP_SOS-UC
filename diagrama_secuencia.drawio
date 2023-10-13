@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T22:32:20.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2srzIRtGkhAPEoBDkwKj" version="22.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-13T22:42:47.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2ceeCAyanrlFuzRgx-2H" version="22.0.4" type="github" pages="12">
   <diagram name="login" id="mG-L4HED1XU0AZiBFtAG">
-    <mxGraphModel dx="1750" dy="957" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1844,7 +1844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XEtAbIoSLg84RbKr0SLh" name="mis_solicitudes">
-    <mxGraphModel dx="1750" dy="2126" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="2213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1866,7 +1866,7 @@
             <mxPoint x="578" y="-699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AJKFYtb3aAdql4mV3JOu-5" value="Mis_solicitudes()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="AJKFYtb3aAdql4mV3JOu-4" vertex="1">
+        <mxCell id="AJKFYtb3aAdql4mV3JOu-5" value="Visualizar_solicitud()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="AJKFYtb3aAdql4mV3JOu-4" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2033,7 +2033,7 @@
             <mxPoint x="574" y="-378" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AJKFYtb3aAdql4mV3JOu-37" value="Cancelar_solicitudes()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="AJKFYtb3aAdql4mV3JOu-36" vertex="1">
+        <mxCell id="AJKFYtb3aAdql4mV3JOu-37" value="Cancelar_solicitud()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="AJKFYtb3aAdql4mV3JOu-36" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
