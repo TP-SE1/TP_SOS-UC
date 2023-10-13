@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T23:31:41.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MbUyyD8LRb8NdNkXZi_8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T23:38:06.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fj5EEaMB5mk6o-fmFWV9" version="22.0.4" type="github">
   <diagram name="Page-1" id="eEXkZVuSIt10tBIXvI3O">
-    <mxGraphModel dx="2100" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,8 +333,8 @@
         <mxCell id="o9HWgNhMtSYRggMD-RNL-34" value="Procesar Solicitud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="384" y="115" width="179" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="o9HWgNhMtSYRggMD-RNL-35" value="Iniciar Chat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="417" y="673" width="119" height="36" as="geometry" />
+        <mxCell id="o9HWgNhMtSYRggMD-RNL-35" value="Envíar mensaje" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="399" y="673" width="157" height="36" as="geometry" />
         </mxCell>
         <mxCell id="o9HWgNhMtSYRggMD-RNL-36" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="441" y="1234" width="67" height="36" as="geometry" />
