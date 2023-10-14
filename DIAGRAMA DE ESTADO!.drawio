@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T00:07:22.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="E3_eG_EFRxGKXcdPeLZ7" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T00:29:25.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="xlDVN2WH1hEESdXB1PJF" version="22.0.4" type="github">
   <diagram name="Page-1" id="eEXkZVuSIt10tBIXvI3O">
-    <mxGraphModel dx="1909" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1XSUIqSgd9dczcnVVFZm-30" value="AceptarSolicitud()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1XSUIqSgd9dczcnVVFZm-30" value="AceptarSolicitud(id_solicitud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="685" y="139" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1XSUIqSgd9dczcnVVFZm-31" value="RechazarSolicitud()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1XSUIqSgd9dczcnVVFZm-31" value="RechazarSolicitud(id_solicitud)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="688" y="421" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1XSUIqSgd9dczcnVVFZm-32" value="Aprobado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
