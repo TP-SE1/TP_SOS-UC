@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T00:21:31.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cXqMVjMDFNZ0XYocirAF" version="22.0.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-14T00:29:26.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eiO2xZp2eXwbWOmL9kV-" version="22.0.4" type="github" pages="12">
   <diagram name="login" id="mG-L4HED1XU0AZiBFtAG">
     <mxGraphModel dx="1750" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1183,7 +1183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U90FkqTQf6OdYBQcgt95" name="chatbot">
-    <mxGraphModel dx="1750" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="1617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2651,7 +2651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sU3d-05mUEuQsUlutEDj" name="procesar_solicitudes">
-    <mxGraphModel dx="1750" dy="2112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2832,7 +2832,7 @@
             <mxPoint x="357" y="-536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0amH-WSXbhulZRKSOct-36" value="AceptarSolicitud()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="O0amH-WSXbhulZRKSOct-35" vertex="1">
+        <mxCell id="O0amH-WSXbhulZRKSOct-36" value="AceptarSolicitud(id_solicitud)" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="O0amH-WSXbhulZRKSOct-35" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" y="-9" as="offset" />
           </mxGeometry>
@@ -2891,7 +2891,7 @@
             <mxPoint x="369.33000000000004" y="-386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O0amH-WSXbhulZRKSOct-46" value="RechazarSolicitud()" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="O0amH-WSXbhulZRKSOct-45" vertex="1">
+        <mxCell id="O0amH-WSXbhulZRKSOct-46" value="RechazarSolicitud(id_solicitud)" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=2;fontColor=#333333;fontSize=13.3;" parent="O0amH-WSXbhulZRKSOct-45" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5" y="-9" as="offset" />
           </mxGeometry>
