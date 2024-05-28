@@ -77,7 +77,7 @@ airflow scheduler
 
 3. Selecciona "Variables" en el menú desplegable.
 
-4. Haz clic en el botón "Create" o "Add Variable".
+4. Haz clic en el botón "+".
 
 5. Llena los campos requeridos:
 
