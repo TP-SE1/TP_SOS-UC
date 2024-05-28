@@ -11,11 +11,23 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 ## Pasos para la Instalación
 # Crear la Carpeta "airflow", una Variable desde la Interfaz Web de Airflow
 
-1. Desde la línea de comandos, crea una carpeta llamada "airflow" en el directorio deseado. Por ejemplo:/home/tu-user/airflow
+1. Desde la línea de comandos, crea la carpeta "airflow" y dentro "dags" en el directorio deseado. Por ejemplo:/home/tu-user/airflow/dags
 
 ```
-mkdir /home/tu-user/airflow
+mkdir /home/tu-user/airflow/dags
 ```
+### clonar el siguiente repositorio
+```
+git clone https://github.com/Christian-Arce/Captura-Cipe-DataFlow.git
+```
+
+### Copiar el contenido clonado a dags
+```
+cp captura_data.env ~/airflow/dags
+cp cipe_data.env ~/airflow/dags
+cp test-airflow.py ~/airflow/dags
+```
+
 ### Crear y Activar un Entorno Virtual
 - Crear un nuevo entorno virtual llamado "airflow_env"
 ```
@@ -37,10 +49,6 @@ pip install apache-airflow
 ### Dentro de /airflow crear la carpeta dags
 ```
 mkdir dags
-```
-### Dentro de dags, clonar el siguiente repositorio
-```
-git clone hdbajfjbfseb
 ```
 ### Inicializar la base de datos de Airflow
 ```
